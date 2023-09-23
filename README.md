@@ -5,10 +5,12 @@
 <br/>
 <br/>
 
-<img align="right" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" alt="Coder GIF" width="380" height="280"><br />
+<img align="right" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" alt="Coder GIF" width="380" height="280">
+
+
 
 <h3>🚀 About Me</h3> 
-<h4> I'm Ali Mahmoud from Egypt. I'm a Computer Science Student and Junior Front-End Developer. </h4> <br />
+<h4> I'm Ali Mahmoud from Egypt. I'm a Computer Science Student and Junior Front-End Developer. </h4>
 
 
 	
