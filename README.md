@@ -10,7 +10,10 @@
 
 
 <h3>🚀 About Me</h3> 
-<h4> I'm Ali Mahmoud from Egypt. I'm a Computer Science Student and Junior Front-End Developer. </h4>
+<h4> I am Ali Mahmoud, a dedicated student currently enrolled at HIMIT Kafr-Elsheikh. My academic journey has been focused on the exploration of languages, programming, and extensive reading. Over the past year, I have immersed myself in the realm of web development, with a particular emphasis on front-end technologies. My proficiency spans a comprehensive array of languages and frameworks, including HTML, CSS, JavaScript, Sass, React JS, Bootstrap 5, Tailwind CSS, Git, and GitHub, among others. The knowledge and experience acquired during this period have equipped me with a robust skill set in web development.</h4>
+
+
+<!-- <h4> I'm Ali Mahmoud from Egypt. I'm a Computer Science Student and Junior Front-End Developer. </h4> -->
 
 
 	
@@ -22,6 +25,9 @@
 ![HTML5](https://img.shields.io/badge/-HTML5-%23E44D27?style=flat-square&logo=html5&logoColor=ffffff)
 ![CSS3](https://img.shields.io/badge/-CSS3-%231572B6?style=flat-square&logo=css3)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
+![React](https://img.shields.io/badge/-React-%23282C34?style=flat-square&logo=react)
+![Redux](https://img.shields.io/badge/-redux-7348b6?style=flat-square&logo=redux&logoColor=ffffff)
+![TypeScript](https://img.shields.io/badge/-Typescript-black?style=flat-square&logo=typescript)
 ![Sass](https://img.shields.io/badge/-Sass-%23CC6699?style=flat-square&logo=sass&logoColor=ffffff)
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-563D7C?style=flat-square&logo=Bootstrap)
 ![tailwind](https://img.shields.io/badge/-tailwindcss-15b4c1?style=flat-square&logo=tailwindcss&logoColor=ffffff)
@@ -32,9 +38,9 @@
 ![notion](https://img.shields.io/badge/-notion-fff?style=flat-square&logo=notion&logoColor=000) -->
 
 
-- ### I’m currently learning 
-![React](https://img.shields.io/badge/-React-%23282C34?style=flat-square&logo=react)
-![Redux](https://img.shields.io/badge/-redux-7348b6?style=flat-square&logo=redux&logoColor=ffffff)
+<!-- - ### I’m currently learning -->
+<!-- ![React](https://img.shields.io/badge/-React-%23282C34?style=flat-square&logo=react) -->
+<!-- ![Redux](https://img.shields.io/badge/-redux-7348b6?style=flat-square&logo=redux&logoColor=ffffff) -->
 <!-- ![typescript](https://img.shields.io/badge/-typescript-2e72bc?style=flat-square&logo=typescript&logoColor=ffffff) -->
 
 
